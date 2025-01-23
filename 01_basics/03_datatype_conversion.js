@@ -17,3 +17,12 @@ console.log(stringIntoNumber)           //value is NAN means 22AB is not a numbe
 //true = 1;  false = 2
 
 // false "";  true="fuop"
+
+/*-----------operators---------*/
+// + - % * / 
+// str3 = str1 + str2
+
+let a = 33;   
+let neg = -a;
+console.log(neg)   // return - value -33
+
